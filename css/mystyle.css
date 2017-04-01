@@ -1,0 +1,15 @@
+.centre-crop {
+  object-fit: cover;
+  object-position: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#myCarousel {
+  margin-bottom: 10px;
+}
+
+#main-pill {
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
