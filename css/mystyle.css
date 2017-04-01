@@ -10,6 +10,18 @@
 }
 
 #main-pill {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   font-size: 1.2em;
+}
+
+.featurette-heading {
+  margin-top: 0px;
+}
+
+.text-muted {
+  font-size: 0.8em;
+}
+
+.featurette-heading {
+  font-size: 3em;
 }
